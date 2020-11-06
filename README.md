@@ -1,2 +1,2 @@
-# My-Own-Library
-This is a library which includes the isTouching Function.
+# p5.play-boilerplate
+Boiler plate for p5.play
